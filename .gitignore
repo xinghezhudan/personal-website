@@ -1,1 +1,6 @@
 .tools/
+node_modules/
+dist/
+.pnpm-store/
+public/assets/portfolio-layout-1.png
+public/assets/portfolio-layout-2.png
